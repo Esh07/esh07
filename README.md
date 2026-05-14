@@ -1,10 +1,14 @@
-<h1>Hi, I'm Esh 👋</h1>
-<p><em>Computer Science graduate · Leicester, UK · building things I'd want to use.</em></p>
-
-### 🧰 Tech I reach for
-`Python` · `Java` · `JavaScript` · `Flask` · `Spring Boot` · `SQL` · `Git`
+<h1>Hi there 👋</h1>
+<p>I'm a Computer Science graduate and software engineer from Leicester, UK. <em>Currently building things I'd want to use.</em>
 
 ### 🔭 What I'm doing now
-- Polishing my portfolio projects (energy mgmt, timetable API)
+- Accounting simulator with Python — generates realistic business data + user scenarios, clean CLI workflow
+- [AGMP - Advanced Geolocation Mapping Tool](https://advanced-map.vercel.app/docs) — spatial planning with an intuitive UI (team management)
 - Strengthening DSA + system design fundamentals
-- Open to **graduate software-engineering roles**
+
+### 🌱 What I'm exploring
+- Cleaner architecture patterns in Python projects
+- Making tools that feel good to use, not just functional
+
+### 💼 Open to
+Graduate **Software Engineering** roles — especially where I can build real, useful things
