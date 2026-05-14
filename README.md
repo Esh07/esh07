@@ -7,9 +7,6 @@
 - [AGMP - Advanced Geolocation Mapping Tool](https://advanced-map.vercel.app/docs) — Browser-based geospatial planner using Leaflet + OpenStreetMap. Supports boundary drawing, street/house analysis, team workload management, and local-first data processing with DuckDB-Wasm.
 - Strengthening DSA fundamentals and system design through practice.
 
-### 🌱 What I'm exploring
-- Cleaner architecture patterns in Python projects
-- Making tools that feel good to use, not just functional
 
 ### 💼 Open to
 Graduate **Software Engineering** roles where I can help build useful products that solve meaningful problems.
