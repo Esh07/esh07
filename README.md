@@ -14,4 +14,6 @@
 ### 💼 Open to
 Graduate **Software Engineering** roles where I can help build useful products that solve meaningful problems.
 
+:incoming_envelope: [esh(nospace)dev[mention]proton(full-stop)me](mailto:eshdev@proton.me)
+
 Feel free to reach out if you're working on something interesting!
